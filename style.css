@@ -444,7 +444,7 @@ a:active {
 	color: #eee;
 	text-align: left;
 	position: relative;
-	padding:7px;
+	padding-left:7px;
 	margin-bottom:30px;
 }
 #nav-bar #search-form {
